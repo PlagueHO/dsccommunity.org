@@ -33,7 +33,7 @@ The DSC Resource Kit was already operating under similar structure, but it wasn'
 
 **Daniel** has been a long time contributor to the DSC Resource Kit, and if you had anything to do on the GitHub repository, you most likely have came across his work. Not only he is maintaining a few High Quality Resource Module, he consistently produce a massive efforts to help review other Pull Request and improve the testing and quality of the Resource Kit.
 
-**Johan** is also a top contributor and maintains some of the most actives Resources, while joining Daniel in reviewing code across all other repositories and improving the experience and quality of the DSC Resource Kit. Johan also helps new contributors and maintainers to get up to speed, and any DSC user in the DSC channel of the PowerShell Slack team.
+**Johan** is also a top contributor and maintains some of the most actives Resources, while joining Daniel in reviewing code across all other repositories and improving the experience and quality of the DSC Resource Kit. Johan also helps new contributors and maintainers to get up to speed, and any DSC user in the [Slack PowerShell #DSC channel](https://powershell.slack.com).
 
 <div class="alert rounded-0 alert-danger">
   A simple primary alert—check it out!
